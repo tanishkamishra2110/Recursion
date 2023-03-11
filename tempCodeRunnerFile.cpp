@@ -1,0 +1,1 @@
+cout<<"n is"<<n<<endl;
